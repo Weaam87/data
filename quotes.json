@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "img_src": "https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "name": "Nelson Mandela"
+  },
+  {
+    "id": "2",
+    "img_src": "https://images.unsplash.com/photo-1503965830912-6d7b07921cd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "name": "Walt Disney"
+  },
+  {
+    "id": "3",
+    "img_src": "https://images.unsplash.com/photo-1474533883693-59a44dbb964e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
+    "name": "teve Jobs"
+  },
+  {
+    "id": "4",
+    "img_src": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "If life were predictable it would cease to be life, and be without flavor.",
+    "name": "Eleanor Roosevelt"
+  },
+  {
+    "id": "5",
+    "img_src": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80",
+    "quote": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "name": "Oprah Winfrey"
+  },
+  {
+    "id": "6",
+    "img_src": "https://images.unsplash.com/photo-1500304624028-5b2641868ade?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+    "name": "James Cameron"
+  },
+  {
+    "id": "7",
+    "img_src": "https://images.unsplash.com/photo-1518963534257-f901d4d46f59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Life is what happens when you're busy making other plans.",
+    "name": "John Lennon"
+  },
+  {
+    "id": "8",
+    "img_src": "https://images.unsplash.com/photo-1489311778769-38fbf664895a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "9",
+    "img_src": "https://images.unsplash.com/photo-1603436262790-87a71fd759f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "name": "Franklin D. Roosevelt"
+  },
+  {
+    "id": "10",
+    "img_src": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Always remember that you are absolutely unique. Just like everyone else.",
+    "name": "Margaret Mead"
+  },
+  {
+    "id": "11",
+    "img_src": "https://images.unsplash.com/photo-1501696461415-6bd6660c6742?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    "name": "Robert Louis Stevenson"
+  },
+  {
+    "id": "12",
+    "img_src": "https://images.unsplash.com/photo-1531351848405-f427f63946c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "name": "Eleanor Roosevelt"
+  },
+  {
+    "id": "13",
+    "img_src": "https://images.unsplash.com/photo-1523897056079-5553b57112d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=941&q=80",
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "name": "Benjamin Franklin"
+  },
+  {
+    "id": "14",
+    "img_src": "https://images.unsplash.com/photo-1485970247670-34cd80f5a996?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
+    "name": "Helen Keller"
+  },
+  {
+    "id": "15",
+    "img_src": "https://images.unsplash.com/photo-1457270508644-1e4905fabd7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "name": "Aristotle"
+  },
+  {
+    "id": "16",
+    "img_src": "https://images.unsplash.com/photo-1476970980147-71209edbfa4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Whoever is happy will make others happy too.",
+    "name": "Anne Frank"
+  },
+  {
+    "id": "17",
+    "img_src": "https://images.unsplash.com/photo-1495584816685-4bdbf1b5057e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "name": "Ralph Waldo Emerson"
+  },
+  {
+    "id": "18",
+    "img_src": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "name": "Abraham Lincoln"
+  },
+  {
+    "id": "19",
+    "img_src": "https://images.unsplash.com/photo-1539362286735-21789f9187f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "In this life we cannot do great things. We can only do small things with great love.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "20",
+    "img_src": "https://images.unsplash.com/photo-1539037397405-a7554159b2ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "name": "Mae West"
+  },
+  {
+    "id": "21",
+    "img_src": "https://images.unsplash.com/photo-1539064979941-65df00f5a3b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
+    "name": "Henry David Thoreau"
+  },
+  {
+    "id": "22",
+    "img_src": "https://images.unsplash.com/photo-1539689816072-86231273b4d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life is really simple, but we insist on making it complicated.",
+    "name": "Confucius"
+  },
+  {
+    "id": "23",
+    "img_src": "https://images.unsplash.com/photo-1539718110656-942f6db1bfa0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life itself is the most wonderful fairy tale.",
+    "name": "Hans Christian Andersen"
+  },
+  {
+    "id": "24",
+    "img_src": "https://images.unsplash.com/photo-1539673433035-50b0c3110f1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Do not let making a living prevent you from making a life.",
+    "name": "John Wooden"
+  },
+  {
+    "id": "25",
+    "img_src": "https://images.unsplash.com/photo-1513237739339-5696060a5359?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life is ours to be spent, not to be saved.",
+    "name": "D. H. Lawrence"
+  },
+  {
+    "id": "26",
+    "img_src": "https://images.unsplash.com/photo-1484538162795-891443f6074f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
+    "name": "Marilyn Monroe"
+  },
+  {
+    "id": "27",
+    "img_src": "https://images.unsplash.com/photo-1517080915377-c44ce4921df1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "quote": "Life is a long lesson in humility.",
+    "name": "James M. Barrie"
+  },
+  {
+    "id": "28",
+    "img_src": "https://images.unsplash.com/photo-1527572756213-1cda99a355c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "name": "Robert Frost"
+  },
+  {
+    "id": "29",
+    "img_src": "https://images.unsplash.com/photo-1539946309076-4daf2ea73899?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Love the life you live. Live the life you love.",
+    "name": "Bob Marley"
+  },
+  {
+    "id": "30",
+    "img_src": "https://images.unsplash.com/photo-1517456902944-3b9f0dad1f57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "name": "Helen Keller"
+  },
+  {
+    "id": "31",
+    "img_src": "https://images.unsplash.com/photo-1512441933491-7b8cc442ed32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life is made of ever so many partings welded together.",
+    "name": "Charles Dickens"
+  },
+  {
+    "id": "32",
+    "img_src": "https://images.unsplash.com/photo-1515467793618-9950224fb112?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life is trying things to see if they work.",
+    "name": "Ray Bradbury"
+  },
+  {
+    "id": "33",
+    "img_src": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "name": "Thomas Jefferson"
+  },
+  {
+    "id": "34",
+    "img_src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "quote": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+    "name": "Barack Obama"
+  },
+  {
+    "id": "35",
+    "img_src": "https://images.unsplash.com/photo-1530743373890-f3c506b0b5b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=935&q=80",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "name": "Thomas A. Edison"
+  },
+  {
+    "id": "36",
+    "img_src": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=908&q=80",
+    "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+    "name": "Winston S. Churchill"
+  },
+  {
+    "id": "37",
+    "img_src": "https://images.unsplash.com/photo-1517166357932-d20495eeffd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "name": "Henry David Thoreau"
+  },
+  {
+    "id": "38",
+    "img_src": "https://images.unsplash.com/photo-1516431883659-655d41c09bf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "name": "Walt Disney"
+  },
+  {
+    "id": "39",
+    "img_src": "https://images.unsplash.com/photo-1528082449820-2286cc8464ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "If you really look closely, most overnight successes took a long time.",
+    "name": "Steve Jobs"
+  },
+  {
+    "id": "40",
+    "img_src": "https://images.unsplash.com/photo-1457735720963-e277a46f2c68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "The secret of success is to do the common thing uncommonly well.",
+    "name": "John D. Rockefeller Jr."
+  },
+  {
+    "id": "41",
+    "img_src": "https://images.unsplash.com/photo-1452179535021-368bb0edc3a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Don't be distracted by criticism. Remember — the only taste of success some people get is to take a bite out of you.",
+    "name": "Zig Ziglar"
+  },
+  {
+    "id": "42",
+    "img_src": "https://images.unsplash.com/photo-1524553496250-1a722745ae00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "I never dreamed about success, I worked for it.",
+    "name": "Estee Lauder"
+  },
+  {
+    "id": "43",
+    "img_src": "https://images.unsplash.com/photo-1540028317582-ab90fe7c343f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+    "name": "Conrad Hilton"
+  },
+  {
+    "id": "44",
+    "img_src": "https://images.unsplash.com/photo-1535438414045-70dbc0464d5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+    "name": "Colin Powell"
+  },
+  {
+    "id": "45",
+    "img_src": "https://images.unsplash.com/photo-1476610182048-b716b8518aae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=959&q=80",
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "name": "Franklin D. Roosevelt"
+  },
+  {
+    "id": "46",
+    "img_src": "https://images.unsplash.com/photo-1502786129293-79981df4e689?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "It is better to fail in originality than to succeed in imitation.",
+    "name": "Herman Melville"
+  },
+  {
+    "id": "47",
+    "img_src": "https://images.unsplash.com/photo-1449156733864-dd5471bb7427?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.",
+    "name": "Jim Rohn"
+  },
+  {
+    "id": "48",
+    "img_src": "https://images.unsplash.com/photo-1538589420516-116f80ed7fe3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "name": "Colin R. Davis"
+  },
+  {
+    "id": "49",
+    "img_src": "https://images.unsplash.com/photo-1538215062820-0b0097c60c5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=895&q=80",
+    "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "name": "David Brinkley"
+  },
+  {
+    "id": "50",
+    "img_src": "https://images.unsplash.com/photo-1540808450974-f61b32d7db7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "quote": "Try not to become a man of success. Rather become a man of value.",
+    "name": "Albert Einstein"
+  },
+  {
+    "id": "51",
+    "img_src": "https://images.unsplash.com/photo-1539350753666-b8667c6c1bce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "name": "John D. Rockefeller"
+  },
+  {
+    "id": "52",
+    "img_src": "https://images.unsplash.com/photo-1540872774269-086639e6ef48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=785&q=80",
+    "quote": "Always bear in mind that your own resolution to success is more important than any other one thing.",
+    "name": "Abraham Lincoln"
+  },
+  {
+    "id": "53",
+    "img_src": "https://images.unsplash.com/photo-1540966531224-dfb02d2f5967?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "name": "Winston Churchill"
+  },
+  {
+    "id": "54",
+    "img_src": "https://images.unsplash.com/photo-1540962219877-4a59fa8105ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
+    "quote": "If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work.",
+    "name": "Thomas J. Watson"
+  },
+  {
+    "id": "55",
+    "img_src": "https://images.unsplash.com/photo-1540941511432-d0d8480fdd99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "name": "Vidal Sassoon"
+  },
+  {
+    "id": "56",
+    "img_src": "https://images.unsplash.com/photo-1541002696302-c407762707f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+    "name": "Jim Rohn"
+  },
+  {
+    "id": "57",
+    "img_src": "https://images.unsplash.com/photo-1540955330685-7fb3408d9c5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=895&q=80",
+    "quote": "Before anything else, preparation is the key to success.",
+    "name": "Alexander Graham Bell"
+  },
+  {
+    "id": "58",
+    "img_src": "https://images.unsplash.com/photo-1539537378334-1e633546b382?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "People who succeed have momentum. The more they succeed, the more they want to succeed and the more they find a way to succeed. Similarly, when someone is failing, the tendency is to get on a downward spiral that can even become a self-fulfilling prophecy.",
+    "name": "Tony Robbins"
+  },
+  {
+    "id": "59",
+    "img_src": "https://images.unsplash.com/photo-1540251655970-db58d367db82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "You miss 100% of the shots you don't take.",
+    "name": "Wayne Gretzky"
+  },
+  {
+    "id": "60",
+    "img_src": "https://images.unsplash.com/photo-1539573613232-2d050ca7b610?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "Whether you think you can or you think you can't, you're right.",
+    "name": "Henry Ford"
+  },
+  {
+    "id": "61",
+    "img_src": "https://images.unsplash.com/photo-1541098477258-0d83cc9da346?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    "name": "Rosa Parks"
+  },
+  {
+    "id": "62",
+    "img_src": "https://images.unsplash.com/photo-1541111166270-2182253e5244?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "63",
+    "img_src": "https://images.unsplash.com/photo-1541169477997-6ed649539ec4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Nothing is impossible, the word itself says, ‘I'm possible!",
+    "name": "Audrey Hepburn"
+  },
+  {
+    "id": "64",
+    "img_src": "https://images.unsplash.com/photo-1541175617134-5b84c2bdd6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "The question isn't who is going to let me; it's who is going to stop me.",
+    "name": "Ayn Rand"
+  },
+  {
+    "id": "65",
+    "img_src": "https://images.unsplash.com/photo-1516653676872-2e4e6df3ffb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "name": "Ralph Waldo Emerson"
+  },
+  {
+    "id": "66",
+    "img_src": "https://images.unsplash.com/photo-1563372949-0483fa40e5da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80",
+    "quote": "Believe you can and you're halfway there.",
+    "name": "Theodore Roosevelt"
+  },
+  {
+    "id": "67",
+    "img_src": "https://images.unsplash.com/photo-1599717126555-589be056afba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=809&q=80",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "name": "Maya Angelou"
+  },
+  {
+    "id": "68",
+    "img_src": "https://images.unsplash.com/photo-1503496134949-f72a44b7ba1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "quote": "You become what you believe.",
+    "name": "Oprah Winfrey"
+  },
+  {
+    "id": "69",
+    "img_src": "https://images.unsplash.com/photo-1605535335901-45186b455ce3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "name": "Amelia Earhart"
+  },
+  {
+    "id": "70",
+    "img_src": "https://images.unsplash.com/photo-1622364859318-1d023226eda1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "name": "Anne Frank"
+  },
+  {
+    "id": "71",
+    "img_src": "https://images.unsplash.com/photo-1536623975707-c4b3b2af565d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Everything you've ever wanted is on the other side of fear.",
+    "name": "George Addair"
+  },
+  {
+    "id": "72",
+    "img_src": "https://images.unsplash.com/photo-1531816247963-c7b28072d65d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Dream big and dare to fail.",
+    "name": "Norman Vaughan"
+  },
+  {
+    "id": "73",
+    "img_src": "https://images.unsplash.com/uploads/1412533519888a485b488/bb9f9777?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "You may be disappointed if you fail, but you are doomed if you don't try.",
+    "name": "Beverly Sills"
+  },
+  {
+    "id": "74",
+    "img_src": "https://images.unsplash.com/photo-1541757088-1c919081357f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Life is 10% what happens to me and 90% of how I react to it.",
+    "name": "Charles Swindoll"
+  },
+  {
+    "id": "75",
+    "img_src": "https://images.unsplash.com/photo-1569948936239-908a7bc95edc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "name": "Confucius"
+  },
+  {
+    "id": "76",
+    "img_src": "https://images.unsplash.com/photo-1572461240908-155cf6e0074c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1030&q=80",
+    "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+    "name": "Henry Ford"
+  },
+  {
+    "id": "77",
+    "img_src": "https://images.unsplash.com/photo-1591035897819-f4bdf739f446?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Too many of us are not living our dreams because we are living our fears.",
+    "name": "Les Brown"
+  },
+  {
+    "id": "78",
+    "img_src": "https://images.unsplash.com/photo-1505483531331-fc3cf89fd382?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+    "quote": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+    "name": "Sheryl Sandberg"
+  },
+  {
+    "id": "79",
+    "img_src": "https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "quote": "I attribute my success to this: I never gave or took any excuse.",
+    "name": "Florence Nightingale"
+  },
+  {
+    "id": "80",
+    "img_src": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "I would rather die of passion than of boredom.",
+    "name": "Vincent van Gogh"
+  },
+  {
+    "id": "81",
+    "img_src": "https://images.unsplash.com/photo-1544085311-11a028465b03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "Dreaming, after all, is a form of planning.",
+    "name": "Gloria Steinem"
+  },
+  {
+    "id": "82",
+    "img_src": "https://images.unsplash.com/photo-1544009520-e2ea9189f15e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+    "name": "Napoleon Hill"
+  },
+  {
+    "id": "83",
+    "img_src": "https://images.unsplash.com/photo-1536683402757-75f8d0dfa419?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "quote": "First, have a definite, clear practical ideal; a goal, an objective. Second, have the necessary means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+    "name": "Aristotle"
+  },
+  {
+    "id": "84",
+    "img_src": "https://images.unsplash.com/photo-1463947628408-f8581a2f4aca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+    "name": "Mark Twain"
+  },
+  {
+    "id": "85",
+    "img_src": "https://images.unsplash.com/photo-1514454529242-9e4677563e7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Peace begins with a smile.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "86",
+    "img_src": "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Let us always meet each other with a smile, for the smile is the beginning of love.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "87",
+    "img_src": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "My dream has no limits",
+    "name": "Weaam Alagha"
+  },
+  {
+    "id": "88",
+    "img_src": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "quote": "Some people come in our life as blessings. Some come in your life as lessons.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "89",
+    "img_src": "https://images.unsplash.com/photo-1541321814039-dc8c3e3a07cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1010&q=80",
+    "quote": "If you find happiness, people may be jealous. Be happy anyway.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "90",
+    "img_src": "https://images.unsplash.com/photo-1541453706665-2cd5816d5969?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Love is a fruit in season at all times and within reach of every hand.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "91",
+    "img_src": "https://images.unsplash.com/photo-1540883875958-ffddda178fa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "There is more hunger in the world for love and appreciation in this world than for bread.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "92",
+    "img_src": "https://images.unsplash.com/photo-1541446731978-f335f5dc9903?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=956&q=80",
+    "quote": "What you spend years building may be destroyed overnight; build it anyway.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "93",
+    "img_src": "https://images.unsplash.com/photo-1541448574400-49fbe8a31293?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=929&q=80",
+    "quote": "One of the realities we’re all called to go through is to move from repulsion to compassion and from compassion to wonderment.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "94",
+    "img_src": "https://images.unsplash.com/photo-1541539947094-261eed4080e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Give the world the best you have, and it may never be enough; give the world the best you’ve got anyway.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "95",
+    "img_src": "https://images.unsplash.com/photo-1538123198808-dcb3497166d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "Together we can do great things.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "96",
+    "img_src": "https://images.unsplash.com/photo-1502338951877-662a11b5c7c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "quote": "We do not need guns and bombs to bring peace, we need love and compassion.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "97",
+    "img_src": "https://images.unsplash.com/photo-1541616343863-07246122247c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=953&q=80",
+    "quote": "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "98",
+    "img_src": "https://images.unsplash.com/photo-1541286347099-f75ffda21f00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Never worry about numbers. Help one person at a time, and always start with the person nearest you.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "99",
+    "img_src": "https://images.unsplash.com/photo-1520637836993-a071674ec67b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "quote": "Go out into the world today and love the people you meet. Let your presence light new light in the hearts of people.",
+    "name": "Mother Teresa"
+  },
+  {
+    "id": "100",
+    "img_src": "https://images.unsplash.com/photo-1525275963076-7a70249a9925?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "quote": "The way you help heal the world is you start with your own family.",
+    "name": "Mother Teresa"
+  }
+]
